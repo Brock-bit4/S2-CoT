@@ -91,7 +91,7 @@ If you have any questions, suggestions, or collaboration opportunities, feel fre
 ## 📖 Citation
 If you find our work useful in your research, please cite our paper:
 
---------------------------------------------------------------------- THIS WORKS ----------------------------------------------------------------------
+> #### ✦ THIS WORK ✦
 
 ***1. Google Scholar*** :
 ```bibtex
@@ -123,7 +123,8 @@ If you find our work useful in your research, please cite our paper:
   year={2026}
 }
 ```
---------------------------------------------------------------------- OTHER WORKS ----------------------------------------------------------------------
+
+> #### ✦ OTHER WORKS ✦
 
 ***1. MDPI*** :
 ```bibtex
