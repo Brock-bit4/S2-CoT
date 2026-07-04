@@ -46,6 +46,17 @@ Parameter-efficient fine-tuning of pre-trained codecs is a promising direction i
 </div>
 
 
+## 📝 Updates & Errata
+We will continuously update known typos, formula errors and description mistakes in the paper and repository.
+- If you find any mistakes, typographical errors, or inconsistent experimental details, feel free to submit an Issue or pull request to notify us.
+- All confirmed corrections will be recorded and updated in this section in real time.
+
+### Record of Corrections
+|      Date    |     Location    |     Error Description     |     Correction Content     |
+|--------------|-----------------|---------------------------|----------------------------|
+| - | - | - | - |
+
+
 ## 📚 Dataset
 The following datasets are used and needed to be downloaded:  
 - COCO2017 Train/Val for Detection and Segmentation
@@ -79,14 +90,31 @@ If you have any questions, suggestions, or collaboration opportunities, feel fre
 
 ## 📖 Citation
 If you find our work useful in your research, please cite our paper:
+
+--------------------------------------------------------------------- THIS WORKS ----------------------------------------------------------------------
+
+***1. Google Scholar*** :
 ```bibtex
-@inproceedings{liu2026S2CoTcvprf,
-  title={What and Where to Adapt: Structure--Semantics Co-Tuning for Machine Vision Compression via Synergistic Adapters},
+@inproceedings{liu2026gs,
+  title={What and Where to Adapt: Structure-Semantics Co-Tuning for Machine Vision Compression via Synergistic Adapters},
   author={Liu, Shaobo and Xiong, Haobo and Liu, Kai and Lin, Yuna},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings (CVPR Findings)},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2813--2822},
   year={2026}
 }
 ```
+***2. CVPR 2026 open access*** :
+```bibtex
+@InProceedings{Liu_2026_CVPR,
+    author    = {Liu, Shaobo and Xiong, Haobo and Liu, Kai and Lin, Yuna},
+    title     = {What and Where to Adapt: Structure-Semantics Co-Tuning for Machine Vision Compression via Synergistic Adapters},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
+    month     = {June},
+    year      = {2026},
+    pages     = {2813-2822}
+}
+```
+***3. arXiv*** :
 ```bibtex
 @article{liu2026S2CoTarxiv,
   title={What and Where to Adapt: Structure–Semantics Co-Tuning for Machine Vision Compression via Synergistic Adapters},
@@ -95,6 +123,9 @@ If you find our work useful in your research, please cite our paper:
   year={2026}
 }
 ```
+--------------------------------------------------------------------- OTHER WORKS ----------------------------------------------------------------------
+
+***1. MDPI*** :
 ```bibtex
 @Article{rs18060881,
  title={MambaLIC: State-Space Models for Efficient Remote Sensing Image Compression},
