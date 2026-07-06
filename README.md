@@ -54,7 +54,7 @@ We will continuously update known typos, formula errors and description mistakes
 ### Record of Corrections
 |      Date    |     Location    |     Error Description     |     Correction Content     |
 |--------------|-----------------|---------------------------|----------------------------|
-| 2026/07/04 | ①CvF->supp->Appendix.K->Tab.9<br>②arXiv.v1->Appendix.K->Tab.17 | Incorrect table value for trainable params of 'Ours' Method | Wrong:0.42 (0.35%)<br>***Right:0.67 (0.56%)*** |
+| 2026/07/06 | ①CvF->supp->Appendix.K->Tab.9<br>②arXiv.v1->Appendix.K->Tab.17 | Incorrect table value for trainable params of 'Ours' Method | Wrong:0.42 (0.35%)<br>***Right:0.67 (0.56%)*** |
 
 
 ## 📚 Dataset
